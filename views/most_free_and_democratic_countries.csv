@@ -1,0 +1,89 @@
+"Code";"Country_name";"Year";"Democracy_estimate";"Freedom_estimate"
+"DNK";"Denmark";"2022";0.916;0.986
+"CHE";"Switzerland";"2022";0.898;0.979
+"IRL";"Ireland";"2022";0.889;0.976
+"NOR";"Norway";"2022";0.899;0.973
+"SWE";"Sweden";"2022";0.899;0.97
+"EST";"Estonia";"2022";0.893;0.97
+"BEL";"Belgium";"2022";0.887;0.97
+"LUX";"Luxembourg";"2022";0.881;0.962
+"FIN";"Finland";"2022";0.861;0.962
+"FRA";"France";"2022";0.874;0.96
+"SVK";"Slovakia";"2022";0.851;0.95
+"NZL";"New Zealand";"2022";0.889;0.948
+"CAN";"Canada";"2022";0.847;0.948
+"DEU";"Germany";"2022";0.857;0.942
+"CZE";"Czechia";"2022";0.853;0.939
+"DOM";"Dominican Republic";"2022";0.679;0.938
+"AUS";"Australia";"2022";0.858;0.937
+"LVA";"Latvia";"2022";0.821;0.937
+"PRT";"Portugal";"2022";0.846;0.934
+"GBR";"United Kingdom";"2022";0.843;0.933
+"USA";"United States";"2022";0.819;0.932
+"LTU";"Lithuania";"2022";0.797;0.929
+"TTO";"Trinidad and Tobago";"2022";0.784;0.929
+"JAM";"Jamaica";"2022";0.797;0.926
+"NLD";"Netherlands";"2022";0.852;0.924
+"CRI";"Costa Rica";"2022";0.871;0.923
+"ITA";"Italy";"2022";0.844;0.922
+"ISL";"Iceland";"2022";0.819;0.914
+"BRB";"Barbados";"2022";0.782;0.909
+"ARG";"Argentina";"2022";0.823;0.907
+"ESP";"Spain";"2022";0.873;0.904
+"KOR";"South Korea";"2022";0.812;0.904
+"SEN";"Senegal";"2022";0.69;0.892
+"VUT";"Vanuatu";"2022";0.771;0.891
+"HND";"Honduras";"2022";0.556;0.889
+"CHL";"Chile";"2022";0.811;0.886
+"TWN";"Taiwan";"2022";0.831;0.88
+"GEO";"Georgia";"2022";0.647;0.88
+"JPN";"Japan";"2022";0.833;0.879
+"KEN";"Kenya";"2022";0.522;0.874
+"AUT";"Austria";"2022";0.794;0.872
+"MDA";"Moldova";"2022";0.752;0.871
+"SUR";"Suriname";"2022";0.77;0.869
+"ISR";"Israel";"2022";0.723;0.863
+"GHA";"Ghana";"2022";0.633;0.863
+"SYC";"Seychelles";"2022";0.761;0.86
+"URY";"Uruguay";"2022";0.804;0.859
+"SLE";"Sierra Leone";"2022";0.559;0.858
+"ZMB";"Zambia";"2022";0.518;0.858
+"LBR";"Liberia";"2022";0.634;0.853
+"NPL";"Nepal";"2022";0.646;0.849
+"CPV";"Cape Verde";"2022";0.75;0.845
+"SVN";"Slovenia";"2022";0.799;0.844
+"COL";"Colombia";"2022";0.689;0.841
+"ZAF";"South Africa";"2022";0.692;0.84
+"ECU";"Ecuador";"2022";0.657;0.838
+"NAM";"Namibia";"2022";0.634;0.835
+"MLT";"Malta";"2022";0.782;0.834
+"CYP";"Cyprus";"2022";0.777;0.831
+"PER";"Peru";"2022";0.744;0.83
+"ARM";"Armenia";"2022";0.645;0.827
+"GRC";"Greece";"2022";0.783;0.826
+"GUY";"Guyana";"2022";0.535;0.81
+"NER";"Niger";"2022";0.511;0.809
+"LSO";"Lesotho";"2022";0.641;0.807
+"BGR";"Bulgaria";"2022";0.688;0.806
+"BWA";"Botswana";"2022";0.577;0.804
+"MWI";"Malawi";"2022";0.642;0.803
+"STP";"Sao Tome and Principe";"2022";0.684;0.802
+"TLS";"Timor";"2022";0.695;0.799
+"HRV";"Croatia";"2022";0.738;0.797
+"MNG";"Mongolia";"2022";0.566;0.797
+"SLB";"Solomon Islands";"2022";0.618;0.795
+"IDN";"Indonesia";"2022";0.574;0.794
+"PAN";"Panama";"2022";0.729;0.79
+"MDV";"Maldives";"2022";0.583;0.783
+"GMB";"Gambia";"2022";0.62;0.77
+"OWID_KOS";"Kosovo";"2022";0.618;0.765
+"ROU";"Romania";"2022";0.689;0.757
+"BOL";"Bolivia";"2022";0.597;0.751
+"PRY";"Paraguay";"2022";0.581;0.744
+"MUS";"Mauritius";"2022";0.521;0.741
+"MKD";"North Macedonia";"2022";0.551;0.734
+"MEX";"Mexico";"2022";0.598;0.724
+"BRA";"Brazil";"2022";0.678;0.675
+"BTN";"Bhutan";"2022";0.535;0.671
+"LKA";"Sri Lanka";"2022";0.575;0.667
+"BIH";"Bosnia and Herzegovina";"2022";0.528;0.655

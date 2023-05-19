@@ -1,0 +1,27 @@
+CREATE 
+VIEW step3.most_free_and_democratic_countries AS
+    SELECT 
+        p.Code AS Code,
+        p.Country_name AS Country_name,
+        p.Year AS Year,
+        p.Democracy_estimate AS Democracy_estimate,
+        p.Freedom_estimate AS Freedom_estimate
+    FROM
+        step3.policy p
+    WHERE
+        ((p.Year = (SELECT 
+                MAX(p2.Year)
+            FROM
+                step3.policy p2
+            WHERE
+                (p2.Code = p.Code AND p2.Year <= 2020)))
+            AND (p.Democracy_estimate > (SELECT 
+                AVG(p3.Democracy_estimate)
+            FROM
+                step3.policy p3))
+            AND (p.Freedom_estimate > (SELECT 
+                AVG(p4.Freedom_estimate)
+            FROM
+                step3.policy p4)))
+    GROUP BY p.Code , p.Year
+    ORDER BY p.Freedom_estimate DESC , p.Democracy_estimate DESC

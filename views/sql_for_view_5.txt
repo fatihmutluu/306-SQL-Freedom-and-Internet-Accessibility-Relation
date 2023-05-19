@@ -1,0 +1,11 @@
+CREATE 
+VIEW step3.community_mobile_vs_internet AS
+    SELECT 
+        step3.community.Code AS Code,
+        step3.community.Country_name AS Country_name,
+        step3.community.Year AS Year,
+        (step3.community.Mobile_cellular_subscriptions / step3.community.Number_of_Internet_users) AS Mobile_vs_Internet
+    FROM
+        step3.community
+    GROUP BY step3.community.Code , step3.community.Year
+    ORDER BY Mobile_vs_Internet DESC

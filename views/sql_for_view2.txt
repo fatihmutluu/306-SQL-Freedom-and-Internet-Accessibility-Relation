@@ -1,0 +1,26 @@
+CREATE 
+    ALGORITHM = UNDEFINED 
+    DEFINER = `root`@`localhost` 
+    SQL SECURITY DEFINER
+VIEW `step3`.`stats_for_highest_internet_usage_year_by_country` AS
+    SELECT 
+        `i`.`Code` AS `Code`,
+        `i`.`Country_name` AS `Country_name`,
+        `i`.`Internet_users` AS `Internet_users`,
+        `i`.`Year` AS `max_internet_users_year`,
+        `i`.`Urban_population` AS `Urban_population`,
+        `i`.`Electricity_access_urban` AS `Electricity_access_urban`,
+        `g`.`GDP` AS `GDP`
+    FROM
+        (`step3`.`infrastructure` `i`
+        JOIN `step3`.`government` `g` ON (((`i`.`Code` = `g`.`Code`)
+            AND (`i`.`Year` = `g`.`Year`))))
+    WHERE
+        ((`i`.`Internet_users` , `i`.`Year`) = (SELECT 
+                MAX(`step3`.`infrastructure`.`Internet_users`),
+                    MAX(`step3`.`infrastructure`.`Year`)
+            FROM
+                `step3`.`infrastructure`
+            WHERE
+                (`step3`.`infrastructure`.`Code` = `i`.`Code`)))
+    ORDER BY `i`.`Year` DESC

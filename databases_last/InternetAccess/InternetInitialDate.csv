@@ -1,0 +1,209 @@
+Country;Code;Year
+Afghanistan;AFG;2001
+Albania;ALB;1995
+Algeria;DZA;1994
+Andorra;AND;1996
+Angola;AGO;1996
+Antigua and Barbuda;ATG;1995
+Argentina;ARG;1992
+Armenia;ARM;1994
+Aruba;ABW;1996
+Australia;AUS;1990
+Austria;AUT;1990
+Azerbaijan;AZE;1994
+Bahamas;BHS;1995
+Bahrain;BHR;1995
+Bangladesh;BGD;1997
+Barbados;BRB;1995
+Belarus;BLR;1994
+Belgium;BEL;1990
+Belize;BLZ;1995
+Benin;BEN;1996
+Bermuda;BMU;1995
+Bhutan;BTN;1999
+Bolivia;BOL;1995
+Bosnia and Herzegovina;BIH;1996
+Botswana;BWA;1995
+Brazil;BRA;1991
+British Virgin Islands;VGB;2002
+Brunei;BRN;1995
+Bulgaria;BGR;1993
+Burkina Faso;BFA;1996
+Burundi;BDI;1996
+Cambodia;KHM;1997
+Cameroon;CMR;1997
+Canada;CAN;1990
+Cape Verde;CPV;1997
+Cayman Islands;CYM;1995
+Central African Republic;CAF;1996
+Chad;TCD;1997
+Chile;CHL;1992
+China;CHN;1993
+Colombia;COL;1994
+Comoros;COM;1998
+Congo;COG;1996
+Costa Rica;CRI;1992
+Cote d'Ivoire;CIV;1995
+Croatia;HRV;1993
+Cuba;CUB;1995
+Curacao;CUW;2016
+Cyprus;CYP;1992
+Czechia;CZE;1993
+Democratic Republic of Congo;COD;1996
+Denmark;DNK;1990
+Djibouti;DJI;1995
+Dominica;DMA;1995
+Dominican Republic;DOM;1995
+Ecuador;ECU;1992
+Egypt;EGY;1993
+El Salvador;SLV;1996
+Equatorial Guinea;GNQ;1997
+Eritrea;ERI;1997
+Estonia;EST;1992
+Eswatini;SWZ;1995
+Ethiopia;ETH;1995
+Faeroe Islands;FRO;1996
+Fiji;FJI;1993
+Finland;FIN;1990
+France;FRA;1990
+French Polynesia;PYF;1996
+Gabon;GAB;1997
+Gambia;GMB;1995
+Georgia;GEO;1995
+Germany;DEU;1990
+Ghana;GHA;1995
+Gibraltar;GIB;1997
+Greece;GRC;1991
+Greenland;GRL;1994
+Grenada;GRD;1996
+Guam;GUM;1994
+Guatemala;GTM;1995
+Guinea;GIN;1994
+Guinea-Bissau;GNB;1997
+Guyana;GUY;1996
+Haiti;HTI;1996
+Honduras;HND;1995
+Hong Kong;HKG;1991
+Hungary;HUN;1991
+Iceland;ISL;1991
+India;IND;1992
+Indonesia;IDN;1994
+Iran;IRN;1994
+Iraq;IRQ;2001
+Ireland;IRL;1991
+Israel;ISR;1990
+Italy;ITA;1990
+Jamaica;JAM;1994
+Japan;JPN;1990
+Jordan;JOR;1995
+Kazakhstan;KAZ;1994
+Kenya;KEN;1995
+Kiribati;KIR;1998
+Kosovo;OWID_KOS;2017
+Kuwait;KWT;1993
+Kyrgyzstan;KGZ;1998
+Laos;LAO;1998
+Latvia;LVA;1996
+Lebanon;LBN;1995
+Lesotho;LSO;1996
+Liberia;LBR;1997
+Libya;LBY;1999
+Liechtenstein;LIE;2000
+Lithuania;LTU;1996
+Luxembourg;LUX;1992
+Macao;MAC;1994
+Madagascar;MDG;1996
+Malawi;MWI;1997
+Malaysia;MYS;1992
+Maldives;MDV;1996
+Mali;MLI;1996
+Malta;MLT;1995
+Marshall Islands;MHL;1996
+Mauritania;MRT;1997
+Mauritius;MUS;1996
+Mexico;MEX;1991
+Micronesia (country);FSM;1996
+Moldova;MDA;1994
+Monaco;MCO;2000
+Mongolia;MNG;1995
+Montenegro;MNE;2004
+Morocco;MAR;1995
+Mozambique;MOZ;1996
+Myanmar;MMR;1999
+Namibia;NAM;1995
+Nauru;NRU;2001
+Nepal;NPL;1995
+Netherlands;NLD;1990
+New Caledonia;NCL;1995
+New Zealand;NZL;1992
+Nicaragua;NIC;1994
+Niger;NER;1996
+Nigeria;NGA;1996
+North Macedonia;MKD;1995
+Norway;NOR;1990
+Oman;OMN;1997
+Pakistan;PAK;1995
+Palau;PLW;2002
+Panama;PAN;1994
+Papua New Guinea;PNG;1996
+Paraguay;PRY;1996
+Peru;PER;1994
+Philippines;PHL;1994
+Poland;POL;1991
+Portugal;PRT;1991
+Puerto Rico;PRI;1994
+Qatar;QAT;1995
+Romania;ROU;1993
+Russia;RUS;1992
+Rwanda;RWA;1996
+Saint Kitts and Nevis;KNA;1996
+Saint Lucia;LCA;1995
+Saint Vincent and the Grenadines;VCT;1995
+Samoa;WSM;1997
+San Marino;SMR;1995
+Sao Tome and Principe;STP;1998
+Saudi Arabia;SAU;1995
+Senegal;SEN;1995
+Serbia;SRB;2004
+Seychelles;SYC;1996
+Sierra Leone;SLE;1996
+Singapore;SGP;1991
+Slovakia;SVK;1993
+Slovenia;SVN;1993
+Solomon Islands;SLB;1995
+Somalia;SOM;1996
+South Africa;ZAF;1991
+South Korea;KOR;1990
+South Sudan;SSD;2013
+Spain;ESP;1990
+Sri Lanka;LKA;1994
+Sudan;SDN;1997
+Suriname;SUR;1995
+Sweden;SWE;1990
+Switzerland;CHE;1990
+Syria;SYR;1997
+Tajikistan;TJK;1999
+Tanzania;TZA;1996
+Thailand;THA;1991
+Timor;TLS;2005
+Togo;TGO;1996
+Tonga;TON;1995
+Trinidad and Tobago;TTO;1995
+Tunisia;TUN;1994
+Turkey;TUR;1993
+Turkmenistan;TKM;1999
+Tuvalu;TUV;2000
+Uganda;UGA;1995
+Ukraine;UKR;1993
+United Arab Emirates;ARE;1995
+United Kingdom;GBR;1990
+United States;USA;1990
+United States Virgin Islands;VIR;1994
+Uruguay;URY;1994
+Uzbekistan;UZB;1995
+Vanuatu;VUT;1996
+Venezuela;VEN;1992
+Vietnam;VNM;1996
+Yemen;YEM;1996
+Zambia;ZMB;1994
+Zimbabwe;ZWE;1994

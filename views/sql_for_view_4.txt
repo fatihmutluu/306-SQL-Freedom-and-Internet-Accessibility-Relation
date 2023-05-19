@@ -1,0 +1,15 @@
+CREATE 
+VIEW step3.democracy_vs_subscriptions AS
+    SELECT 
+        m.Code AS Code,
+        m.Country_name AS Country_name,
+        m.Year AS Year,
+        m.Mobile_cellular_subscriptions AS Mobile_cellular_subscriptions,
+        m.Landline_internet_subscriptions AS Landline_internet_subscriptions,
+        step3.fdc.Freedom_estimate AS Freedom_estimate,
+        step3.fdc.Democracy_estimate AS Democracy_estimate
+    FROM
+        (step3.isp m
+        JOIN step3.most_free_and_democratic_countries fdc ON (((m.Code = step3.fdc.Code)
+            AND (m.Year = step3.fdc.Year))))
+    ORDER BY m.Landline_internet_subscriptions DESC , step3.fdc.Freedom_estimate DESC , step3.fdc.Democracy_estimate DESC
